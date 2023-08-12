@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278648343790",
+    "project_id": "praca44352",
+    "storage_bucket": "praca44352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278648343790:android:58ddf9a91ce1dd85b6b7ff",
+        "android_client_info": {
+          "package_name": "com.example.praca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278648343790-ou6d4baj1pf1ut0111sgil3i4vn8buhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJdOhRLvs_qaMS3g3RMR7MNZPRytjIkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278648343790-ou6d4baj1pf1ut0111sgil3i4vn8buhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
